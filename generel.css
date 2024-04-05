@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(8, 36, 77);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    height: 400px;
+
+}
+
+div{
+    font-family: Roboto, arial;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
